@@ -1,0 +1,212 @@
+Product_ID,Category,Cat-Design,Type,Ruling,no of pages,MRP,Inner quantity,case quantity,product no,barcode no
+1,Small Notebooks,190x155 Design,Hard,Unruled,164,35,6,144,111120ll64,89S4Z508l662
+2,Small Notebooks,190x155 Design,Hard,Single Line,84,25,12,216,111120J084,890142505166J
+3,Small Notebooks,190x155 Design,Hard,Single Line,164,35,6,144,11I120J1/6,890142S0S16J2
+4,Small Notebooks,190x155 Design,Hard,Double line,84,25,12,216,1111204084,890l425051/40
+5,Small Notebooks,190x155 Design,Hard,Double line,164,35,6,144,11112041/6,890142S0J1/5/
+6,Small Notebooks,190x155 Design,Hard,Four lines,84,25,12,216,1111205084,890I42J0JI?88
+7,Small Notebooks,190x155 Design,Hard,Four lines,164,35,6,144,11112051?6,8901425051?9S
+8,Small Notebooks,190x155 Design,Hard,Maths Ruled,164,35,6,144,1111211164,890142J081686
+9,Small Notebooks,190x155 Design,Hard,Interleaf(SL+Unruled),164,35,6,144,1111212164,890142S08I6?9
+10,Small Notebooks,190x155 Design,Soft,Unruled,92,18,12,288,1112201084,890142505SJJ5
+11,Small Notebooks,190x155 Design,Soft,Unruled,164,28,12,144,11122011?6,89014250J5J28
+12,Small Notebooks,190x155 Design,Soft,Single Line,92,18,12,288,1I1220J084,8901425055JS9
+13,Small Notebooks,190x155 Design,Soft,Single Line,164,28,12,144,111220J1?6,8901425055J42
+14,Small Notebooks,190x155 Design,Soft,Double line,92,18,12,288,1112204084,890I42J0J5J/J
+15,Small Notebooks,190x155 Design,Soft,Double line,164,28,12,144,11I22041/6,890I42J0J5J66
+16,Small Notebooks,190x155 Design,Soft,Four lines,92,18,12,288,1112205084,890142505M9/
+17,Small Notebooks,190x155 Design,Soft,Four lines,164,28,12,144,1l122051/6,890I425055J80
+18,Small Notebooks,190x155 Design,Soft,Medium Square,92,18,12,288,1112208084,890142506428J
+19,Small Notebooks,190x155 Design,Soft,Medium Square,164,28,12,144,1112208164,890I42J064290
+20,Small Notebooks,190x155 Design,Soft,Maths Ruled,92,18,12,288,1112211084,89014250/42J/
+21,Small Notebooks,190x155 Design,Soft,Maths Ruled,164,28,12,144,11122111?6,890142505540J
+22,Small Notebooks,190x155 Design,Soft,Interleaf(SL+Unruled),92,18,12,288,1112212084,890142J064J06
+23,Small Notebooks,190x155 Design,Soft,Interleaf(SL+Unruled),164,28,12,144,1l12MM64,890l45064]3
+24,Small Notebooks,190x155 Brown,Small Hard Brown,Single Line,84,25,12,216,lllll0T084,8904Z50l689
+25,Small Notebooks,190x155 Brown,Small Hard Brown,Single Line,164,35,6,144,111110JI/6,890142J0J1696
+26,Small Notebooks,190x155 Brown,Small Hard Brown,Double line,84,25,12,216,1111104084,8901425051ï64
+27,Small Notebooks,190x155 Brown,Small Hard Brown,Double line,164,35,6,144,11111041/6,8901425051ïï1
+28,Small Notebooks,190x155 Brown,Small Hard Brown,Four lines,84,25,12,216,1111105084,890l42J0Jl801
+29,Small Notebooks,190x155 Brown,Small Hard Brown,Four lines,164,35,6,144,1111101a,8J0l4Ü0l8l8
+30,Small Notebooks,190x155 Brown,Small Hard Brown,Medium Square,84,25,12,216,1111108084,8.90143E+12
+31,Small Notebooks,190x155 Brown,Small Hard Brown,Medium Square,164,35,6,144,I1111081K,8904209856
+32,Small  Medium Notebooks,210x170 Design,Medium(Soft),Unruled,60,15,12,288,llZ20l02,8D0l4Ü0i8T49
+33,Small  Medium Notebooks,210x170 Design,Medium(Soft),Unruled,128,30,12,144,llZ220ll28,890l425058T63
+34,Small  Medium Notebooks,210x170 Design,Medium(Soft),Single Line,60,15,12,288,llZZZ0T0M,8904Z50585J6
+35,Small  Medium Notebooks,210x170 Design,Medium(Soft),Single Line,128,30,12,144,ll2ZZ0l78,890lZ5058Dl9
+36,Small  Medium Notebooks,210x170 Design,Medium(Soft),Four lines,60,15,12,288,11222050ï2,890142J0J8626
+37,Small  Medium Notebooks,210x170 Design,Medium(Soft),Four lines,128,30,12,144,ll22Z0JlZ8,8D0l4Z5058640
+38,Small  Medium Notebooks,210x170 Design,Medium(Soft),Medium Square,60,15,12,288,I1222080?2,890I42J0J8688
+39,Small  Medium Notebooks,210x170 Design,Medium(Soft),Medium Square,128,30,12,144,1122208128,840142S0S8?0I
+40,Small  Medium Notebooks,210x170 Design,Medium(Soft),Big Square,60,15,12,288,11222090ï2,89014250816J5
+41,Small  Medium Notebooks,210x170 Design,Medium(Soft),Big Square,128,30,12,144,1122209128,8.90143E+12
+42,Small  Medium Notebooks,210x170 Design,Medium(Soft),Interleaf(SL+Unruled),60,15,12,288,1l222120ï2,890142S0S8??0
+43,Small  Medium Notebooks,210x170 Design,Medium(Soft),Interleaf(SL+Unruled),128,30,12,144,1I22212I28,8901425058ï94
+44,Jumbo A5 Notebooks,255x205 Design,Jumbo A5(Soft),Single Line,172,50,6,72,lU220lfi,8J0l4Ü05l5
+45,Jumbo A5 Notebooks,255x205 Design,Jumbo A5(Soft),Four lines,172,50,6,72,llTZZ05lTZ,890l42508l8T9
+46,Jumbo A5 Notebooks,255x205 Design,Jumbo A5(Soft),Medium Square,172,50,6,72,11T2208lZ,8D014?0818fl
+47,Jumbo A5 Notebooks,255x205 Design,Jumbo A5(Soft),Interleaf(SL+Unruled),172,50,6,72,11ü201ü,89014A08l846
+48,Long (Soft),272x167 Design,Long (Soft),Unruled,120,35,12,120,llfi0ll20,890l42508UT8
+49,Long (Soft),272x167 Design,Long (Soft),Unruled,172,50,6,96,l4Ü0llZ,DJ0l4Ü0Z44
+50,Long (Soft),272x167 Design,Long (Soft),Single Line,68,22,12,192,1I4220J0ï6,89014250521J6
+51,Long (Soft),272x167 Design,Long (Soft),Single Line,120,35,12,120,114220J1I6,8.90143E+12
+52,Long (Soft),272x167 Design,Long (Soft),Single Line,172,50,6,96,114220J1?2,8901425052I4J
+53,Long (Soft),272x167 Design,Long (Soft),Single Line,232,65,6,72,114220ï240,890142S06J9I0
+54,Long (Soft),272x167 Design,Long (Soft),Interleaf(SL+Unruled),68,22,12,192,1142212068,8901425081?54
+55,Long (Soft),272x167 Design,Long (Soft),Interleaf(SL+Unruled),172,,6,96,11422121ï2,890142S081/61
+56,Long (Brown),272x167 Brown,Long (Brown),Single Line,68,22,12,192,114210J0?6,8.90143E+12
+57,Long (Brown),272x167 Brown,Long (Brown),Single Line,172,50,6,96,1l4210Jl/2,8901425052l6ï
+58,A5 Notebooks,240x180 Design,Hard,Single Line,164,50,6,96,llI03,890l4250UlZ9
+59,A5 Notebooks,240x180 Design,Soft,Unruled,28,10,24,480,11J2201028,8901425064?02
+60,A5 Notebooks,240x180 Design,Soft,Unruled,68,20,12,240,11J22010/6,840142S0S4ïJ4
+61,A5 Notebooks,240x180 Design,Soft,Unruled,100,30,12,144,llH20ll04,890l4Ü06l54
+62,A5 Notebooks,240x180 Design,Soft,Unruled,120,35,12,144,llTZZ0ll40,890l4Z5064fi9fi
+63,A5 Notebooks,240x180 Design,Soft,Unruled,140,40,6,120,11PZ011P,8J014b08174T
+64,A5 Notebooks,240x180 Design,Soft,Unruled,164,45,6,96,13220164,890l42508l9Z1
+65,A5 Notebooks,240x180 Design,Soft,Unruled,180,50,6,96,IHZOIZ,840l4Ü054T4
+66,A5 Notebooks,240x180 Design,Soft,Unruled,232,60,6,72,11J22012J2,8.40143E+12
+67,A5 Notebooks,240x180 Design,Soft,Single Line,28,10,24,480,1IJ20J028,841420Ö4ï5
+68,A5 Notebooks,240x180 Design,Soft,Single Line,68,20,12,240,llTZZ030T6,8J0l4Z505l948
+69,A5 Notebooks,240x180 Design,Soft,Single Line,100,30,12,144,1lP70l04,D9014b0f0DÜ
+70,A5 Notebooks,240x180 Design,Soft,Single Line,120,35,12,144,I1J220J140,89014250616JJ
+71,A5 Notebooks,240x180 Design,Soft,Single Line,140,40,6,120,11J220J1J2,840142J08I/J0
+72,A5 Notebooks,240x180 Design,Soft,Single Line,164,45,6,96,1IJ220J164,890142S0819J8
+73,A5 Notebooks,240x180 Design,Soft,Single Line,180,50,6,96,11J220J1ï2,8.90143E+12
+74,A5 Notebooks,240x180 Design,Soft,Single Line,232,60,6,72,11J220J200,89014250640J4
+75,A5 Notebooks,240x180 Design,Soft,Double line,68,20,12,240,I1J22040ï6,8.90143E+12
+76,A5 Notebooks,240x180 Design,Soft,Double line,100,30,12,144,11J2204104,8901425064JJ/
+77,A5 Notebooks,240x180 Design,Soft,Double line,120,35,12,144,llJZZ04l40,8D014Z50TZD46
+78,A5 Notebooks,240x180 Design,Soft,Double line,164,45,6,96,l3ZZ0464,8.90145E+11
+79,A5 Notebooks,240x180 Design,Soft,Double line,180,50,6,96,l3fi04TZ,89014b0M993
+80,A5 Notebooks,240x180 Design,Soft,Three line,120,35,12,144,ll7llT7,8J0l4750TTl6
+81,A5 Notebooks,240x180 Design,Soft,Four lines,28,10,24,480,10?Z050?4,8J014750%6JD
+82,A5 Notebooks,240x180 Design,Soft,Four lines,68,20,12,240,l1I77050T8,8J014ZS0S70?0
+83,A5 Notebooks,240x180 Design,Soft,Four lines,100,30,12,144,113ZZ05104,8J014ZD06ZJJD
+84,A5 Notebooks,240x180 Design,Soft,Four lines,120,35,12,144,IÜZ0I40,89014Ü064672
+85,A5 Notebooks,240x180 Design,Soft,Four lines,140,40,6,120,1l3Z20513Z,89014ZJ08l8ZZ
+86,A5 Notebooks,240x180 Design,Soft,Four lines,164,45,6,96,11PZ0lD4,8D014Ü0819W
+87,A5 Notebooks,240x180 Design,Soft,Four lines,180,50,6,96,IZZOITZ,890145050V
+88,A5 Notebooks,240x180 Design,Soft,Medium Square,28,10,24,480,113Z208024,8J0l4ZJ0TZ6ZZ
+89,A5 Notebooks,240x180 Design,Soft,Medium Square,68,20,12,240,113Z2080M,89014b0TM3T
+90,A5 Notebooks,240x180 Design,Soft,Medium Square,100,30,12,144,MÜ208l04,8.90143E+12
+91,A5 Notebooks,240x180 Design,Soft,Medium Square,120,35,12,144,11TZZ08l40,8D0l4Z50fi4689
+92,A5 Notebooks,240x180 Design,Soft,Medium Square,140,40,6,120,11J22081J2,8.90143E+12
+93,A5 Notebooks,240x180 Design,Soft,Medium Square,180,50,6,96,11J2208lï2,8901425064J68
+94,A5 Notebooks,240x180 Design,Soft,Maths Ruled,164,45,6,96,I1J221I164,89014250819/6
+95,A5 Notebooks,240x180 Design,Soft,Maths Ruled,180,50,6,96,11322111T2,8D01425055434
+96,A5 Notebooks,240x180 Design,Soft,Interleaf(SL+Unruled),120,35,12,144,1IJ2212140,89014250?26SJ
+97,A5 Notebooks,240x180 Design,Soft,Interleaf(SL+Unruled),140,40,6,120,11J22121J2,890142J08I81J
+98,A5 Notebooks,240x180 Design,Soft,Interleaf(SL+Unruled),180,50,6,96,11J22I21ï2,890I425058886
+99,A5 Notebooks,240x180 Design,Soft,interleaf(UR+4 lines),180,50,6,96,11J2214lï2,89014250ïJ22J
+100,A5 Notebooks,240x180 Design,Soft,3 in 1 (SL+FL+Med Sq),180,50,6,96,IIJZZZ1ITZ,8J014Z50588DJ
+101,A5 Notebooks,240x180 Design,Soft (Brown),Unruled,68,20,12,240,l1Ül010fi,8J014Ü0K4D
+102,A5 Notebooks,240x180 Design,Soft (Brown),Unruled,120,35,12,144,I1J21011J2,89014250ïJ285
+103,A5 Notebooks,240x180 Design,Soft (Brown),Unruled,140,40,6,120,11J2101140,8.90143E+12
+104,A5 Notebooks,240x180 Design,Soft (Brown),Unruled,180,50,6,96,ll3I0IZ,8J0l4Ü0D408
+105,A5 Notebooks,240x180 Design,Soft (Brown),Single Line,68,20,12,240,11J210J0/6,890l425051962
+106,A5 Notebooks,240x180 Design,Soft (Brown),Single Line,100,30,12,144,11J210J104,890I42J064J20
+107,A5 Notebooks,240x180 Design,Soft (Brown),Single Line,120,35,12,144,11J210J1J2,890I42J0?J2J0
+108,A5 Notebooks,240x180 Design,Soft (Brown),Single Line,140,40,6,120,11J210J140,89014250818?/
+109,A5 Notebooks,240x180 Design,Soft (Brown),Single Line,180,50,6,96,1IJ210J1?2,89014250519/9
+110,A5 Notebooks,240x180 Design,Soft (Brown),Double line,68,20,12,240,11J2I040?2,8901425064J44
+111,A5 Notebooks,240x180 Design,Soft (Brown),Double line,100,30,12,144,1IJ2104104,8.40143E+12
+112,A5 Notebooks,240x180 Design,Soft (Brown),Double line,120,35,12,144,11J21041J2,890142S0?J24J
+113,A5 Notebooks,240x180 Design,Soft (Brown),Double line,180,50,6,96,l3Z04T2,8904Z505203
+114,A5 Notebooks,240x180 Design,Soft (Brown),Four lines,68,20,12,240,11J21050ï6,8.90143E+12
+115,A5 Notebooks,240x180 Design,Soft (Brown),Four lines,100,30,12,144,llTI0I04,890lZ5064Zl
+116,A5 Notebooks,240x180 Design,Soft (Brown),Four lines,120,35,12,144,11J21051J2,890142S0?J254
+117,A5 Notebooks,240x180 Design,Soft (Brown),Four lines,140,40,6,120,11J2105140,8.90143E+12
+118,A5 Notebooks,240x180 Design,Soft (Brown),Four lines,180,50,6,96,11J21051ï2,890142S0S2051
+119,A5 Notebooks,240x180 Design,Soft (Brown),Five line,120,35,12,144,1IJ2122120,890I42J08169J
+120,A5 Notebooks,240x180 Design,Soft (Brown),Five line,180,50,6,96,I1J2122I80,8901425081ï09
+121,A5 Notebooks,240x180 Design,Soft (Brown),Medium Square,68,20,12,240,Nil,Nil
+122,A5 Notebooks,240x180 Design,Soft (Brown),Medium Square,100,30,12,144,Nil,Nil
+123,A5 Notebooks,240x180 Design,Soft (Brown),Medium Square,120,35,12,144,Nil,Nil
+124,A5 Notebooks,240x180 Design,Soft (Brown),Medium Square,140,40,6,120,Nil,Nil
+125,A5 Notebooks,240x180 Design,Soft (Brown),Medium Square,180,50,6,96,Nil,Nil
+126,A5 Notebooks,240x180 Design,Soft (Brown),Big Square,120,35,12,144,Nil,Nil
+127,A5 Notebooks,240x180 Design,Soft (Brown),Big Square,180,50,6,96,Nil,Nil
+128,A5 Notebooks,240x180 Design,Soft (Brown),interleaf(UR+4 lines),120,35,12,144,Nil,Nil
+129,A5 Notebooks,240x180 Design,Soft (Brown),Broad line,120,35,12,144,Nil,Nil
+130,A5 Notebooks,240x180 Design,Soft (Brown),3 in 1 (SL+FL+Med Sq),120,35,12,144,Nil,Nil
+131,A5 Notebooks,240x180 Design,Soft (Brown),3 in 1 (SL+FL+Med Sq),180,50,6,96,Nil,Nil
+132,A5 Notebooks,240x180 Design,Soft (Brown),3 in 1 (DL+FL+Med Sq),120,35,12,144,Nil,Nil
+133,A5 Notebooks,240x180 Design,Soft (Brown),3 in 1 (DL+FL+Med Sq),180,50,6,96,Nil,Nil
+134,A4 Notebooks,297x210 Design,Hard,Single Line,144,70,6,72,Nil,Nil
+135,A4 Notebooks,297x210 Design,Hard,Single Line,172,85,6,60,Nil,Nil
+136,A4 Notebooks,297x210 Design,Soft,Unruled,76,35,12,144,Nil,Nil
+137,A4 Notebooks,297x210 Design,Soft,Unruled,140,55,6,84,Nil,Nil
+138,A4 Notebooks,297x210 Design,Soft,Unruled,172,65,6,72,Nil,Nil
+139,A4 Notebooks,297x210 Design,Soft,Unruled,240,80,6,48,Nil,Nil
+140,A4 Notebooks,297x210 Design,Soft,Unruled,280,110,4,48,Nil,Nil
+141,A4 Notebooks,297x210 Design,Soft,Unruled,392,140,4,32,Nil,Nil
+142,A4 Notebooks,297x210 Design,Soft,Single Line,76,35,12,144,Nil,Nil
+143,A4 Notebooks,297x210 Design,Soft,Single Line,140,55,6,84,Nil,Nil
+144,A4 Notebooks,297x210 Design,Soft,Single Line,172,65,6,72,Nil,Nil
+145,A4 Notebooks,297x210 Design,Soft,Single Line,240,80,6,48,Nil,Nil
+146,A4 Notebooks,297x210 Design,Soft,Single Line,280,110,4,48,Nil,Nil
+147,A4 Notebooks,297x210 Design,Soft,Single Line,392,140,4,32,Nil,Nil
+148,A4 Notebooks,297x210 Design,Soft,Four lines,140,55,6,84,Nil,Nil
+149,A4 Notebooks,297x210 BrownA4 Brown (Soft),,Unruled (Horizontal),84,30,12,120,Nil,Nil
+150,A4 Notebooks,297x210 BrownA4 Brown (Soft),,Unruled (Horizontal),140,50,6,84,Nil,Nil
+151,A4 Notebooks,297x210 BrownA4 Brown (Soft),,Unruled,140,55,6,84,Nil,Nil
+152,A4 Notebooks,297x210 BrownA4 Brown (Soft),,Unruled,172,65,6,72,Nil,Nil
+153,A4 Notebooks,297x210 BrownA4 Brown (Soft),,Single Line,140,55,6,84,Nil,Nil
+154,A4 Notebooks,297x210 BrownA4 Brown (Soft),,Single Line,172,65,6,72,Nil,Nil
+155,Ultra Long Notebooks,314x194 Design,Ultra Long (Soft),Unruled,80,35,12,144,Nil,Nil
+156,Ultra Long Notebooks,314x194 Design,Ultra Long (Soft),Unruled,152,55,6,84,Nil,Nil
+157,Ultra Long Notebooks,314x194 Design,Ultra Long (Soft),Unruled,172,65,6,72,Nil,Nil
+158,Ultra Long Notebooks,314x194 Design,Ultra Long (Soft),Single Line,80,35,12,144,Nil,Nil
+159,Ultra Long Notebooks,314x194 Design,Ultra Long (Soft),Single Line,152,55,6,84,Nil,Nil
+160,Ultra Long Notebooks,314x194 Design,Ultra Long (Soft),Single Line,172,65,6,72,Nil,Nil
+161,Ultra Long Notebooks,314x194 Design,Ultra Long (Soft),Broad line,80,35,12,144,Nil,Nil
+162,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Hard),Unruled,388,195,4,24,Nil,Nil
+163,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Hard),Single Line,156,90,4,56,Nil,Nil
+164,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Hard),Single Line,388,195,4,24,Nil,Nil
+165,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Unruled,60,30,12,144,Nil,Nil
+166,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Unruled,112,50,12,96,Nil,Nil
+167,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Unruled,160,65,6,72,Nil,Nil
+168,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Unruled,192,80,6,60,Nil,Nil
+169,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Unruled,240,100,6,48,Nil,Nil
+170,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Unruled,304,130,4,40,Nil,Nil
+171,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Single Line,60,30,12,144,Nil,Nil
+172,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Single Line,112,50,12,96,Nil,Nil
+173,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Single Line,160,65,6,72,Nil,Nil
+174,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Single Line,192,80,6,60,Nil,Nil
+175,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Single Line,240,100,6,48,Nil,Nil
+176,Super Ulter Long Notebooks,330x210 Design,Super Ultra Long (Soft),Single Line,304,130,4,40,Nil,Nil
+177,Practical Books,215x265 Design,Hard,Chemistry,104,60,6,72,1/S1218104,890I42S0/JJ1J
+178,Practical Books,215x265 Design,Hard,Chemistry,104,75,6,60,l151218144,890142S0S/919
+179,Practical Books,215x265 Design,Hard,Biology,104,60,6,72,1851219104,890142J0?M22
+180,Practical Books,215x265 Design,Hard,Biology,104,75,6,60,lllZ0l44,J90l4iJ0JT93J
+181,Practical Books,215x265 Design,Hard,Physics,104,60,6,72,1951220104,890142S0/HJ4
+182,Practical Books,215x265 Design,Hard,Physics,104,75,6,60,1l51219144,890142505?95?
+183,Practical Books,215x265 Design,Hard,Combined,104,60,6,72,16512I7I04,89014250/H08
+184,Practical Books,215x265 Design,Hard,Combined,104,75,6,60,1IS12I/144,890142S0S/896
+185,Practical Books,215x265 Design,Hard,Combined (Brown),104,60,6,72,165111?104,890142J0?6J09
+186,Practical Books,215x265 Design,Hard,Computer,104,60,6,72,lUE7404,8904ZJ0DED0
+187,Drawing Book,170x245 Design,Drawing Book,small,36,20,12,240,1109201001,890I42S022948
+188,Drawing Book,210x297 Design,Drawing Book,A4,20,20,12,240,I10S10I020,890I4250/4JS0
+189,Drawing Book,210x297 Design,Drawing Book,A4,36,35,12,168,1109201002,8.90143E+12
+190,Drawing Book,210x297 Design,Drawing Book,A4,64,50,12,96,1105101064,890I42S0/4J6/
+191,Drawing Book,210x297 Design,Drawing Book,A4 (80 GSM),20,18,12,288,1115101020,890142S0/4411
+192,Drawing Book,210x297 Design,Drawing Book,A4 (80 GSM),48,30,12,144,llM0l04D,J90l4ii0T44%
+193,Drawing Book,210x297 Design,Drawing Book,A4 (80 GSM),92,50,12,96,11IJI01096,890142S0/44J5
+194,Drawing Book,275x347 Design,Drawing Book,BIG,36,50,12,96,1I0420100J,890142S0224/9
+195,Drawing Book,275x347 Design,Drawing Book,BIG,48,65,12,72,1108101048,890142S0?4J/4
+196,Premio Spiral book,210x170 Design,soft,Graph Book (1 inch sq.),24,12,24,480,1l22212028,89014250/HS/
+197,Premio Spiral book,220x280 Design,soft,Graph Book (Big),32,25,24,240,IA40H,890l47505TDI4
+198,Premio Spiral book,190x160 Design,soft,Graph Book (1 mm sq.),32,12,24,480,lZl403i,890l4B0£40iJ
+199,Premio Spiral book,220x280 Design,soft,Scrap Book,32,40,12,144,ILAKOH,890l4Z505AJ8
+200,Other Books,176x250 Design,B5 WIRO,Single Line,160,140,1,48,Nil,Nil
+201,Other Books,176x250 Design,B5 WIRO,Single Line,300,220,1,36,Nil,Nil
+202,Other Books,216x140 Design,A5 WIRO,Single Line,160,100,1,60,Nil,Nil
+203,Other Books,216x140 Design,A5 WIRO,Single Line,300,170,1,48,Nil,Nil
+204,Spiral Book,240x180 Design,Spiral Book,Single Line,192,60,6,72,Nil,Nil
+205,Spiral Book,297x210 Design,Spiral Book,Single Line,192,85,6,60,Nil,Nil
+206,Project Paper,280x220 Design,Project Paper,Unruled,25,25,0,220,Nil,Nil
+207,Project Paper,280x220 Design,Project Paper,Unruled,50,40,0,100,Nil,Nil
+208,Project Paper,280x220 Design,Project Paper,Single Line,25,25,0,200,Nil,Nil
+209,Project Paper,280x220 Design,Project Paper,Single Line,50,40,0,100,Nil,Nil
+210,Project Paper,280x220 Design,Project Paper,Interleaf (SL+Unruled),25,25,0,200,Nil,Nil
+211,Project Paper,280x220 Design,Project Paper,Interleaf (SL+Unruled),50,40,0,100,Nil,Nil
